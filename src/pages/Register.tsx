@@ -58,13 +58,13 @@ const Register = () => {
             <Label htmlFor="email">Email</Label>
             <Input id="email" type="email" value={email} onChange={e => setEmail(e.target.value)} placeholder="you@email.com" />
           </div>
-          <OptionToggle
+          <OptionToggle<"yes" | "no">
             label="Postpartum Status"
             value={postpartum}
             options={[{ value: "yes", label: "Yes" }, { value: "no", label: "No" }]}
             onChange={setPostpartum}
           />
-          <OptionToggle
+          <OptionToggle<"pre" | "peri" | "post">
             label="Menopause Stage"
             value={menopause}
             options={[
