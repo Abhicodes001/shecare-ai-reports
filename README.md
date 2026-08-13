@@ -66,7 +66,7 @@ SheCare AI is a mobile-first web application designed for the early detection of
 
 ---
 
-## 🤖 AI Risk Prediction Engine
+##  AI Risk Prediction Engine
 
 The system analyzes collected health data and predicts risk levels:
 
@@ -84,7 +84,7 @@ Menopause Risk: Moderate
 
 ---
 
-## 📄 Medical Report Generation
+##  Medical Report Generation
 
 The application generates structured reports including:
 
@@ -104,7 +104,7 @@ The application generates structured reports including:
 
 ---
 
-## 📊 Health Dashboard
+##  Health Dashboard
 
 - Risk score visualization  
 - Health summary  
@@ -112,7 +112,7 @@ The application generates structured reports including:
 
 ---
 
-## 🎨 UI/UX Design
+##  UI/UX Design
 
 - Mobile-first responsive design  
 - Clean healthcare interface  
